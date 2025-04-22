@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manuka Sathvik</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate full-stack Developer from India</h3>
 
 <p align="center"> 
-  <img src="https://molletichiruvishalportfolio.netlify.app/static/media/mypic.11ac27a29e341c464d3e.jpeg" alt="Molleti Chiru Vishal" width="200" /> 
+  <img src="" alt="Manuka Sathvik" width="200" /> 
 </p>
 
 <p align="center">
