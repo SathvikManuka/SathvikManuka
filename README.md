@@ -1,7 +1,11 @@
-<h1>Hi 👋, I'm Manuka Sathvik.</h1>
-<p>A passionate full-stack developer based in India. I love creating and contributing to exciting projects, and I'm always eager to learn and explore new technologies. Feel free to connect with me, and let's collaborate and build amazing things together! </p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h1 align="center">Hi 👋, I'm Manuka Sathvik</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
+<p align="center"> 
+  <img src="https://avatars.githubusercontent.com/u/208589908?s=400&u=82ae0da07eb1d0def78bc4b044610b8e785b0716&v=4" alt="Molleti Chiru Vishal" width="200" /> 
+</p>
+
+<h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -20,18 +24,17 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sathvik-manuka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathvikmanuka@gmail.com) 
 
-
+##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SathvikManuka/SathvikManuka/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SathvikManuka/SathvikManuka/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SathvikManuka/SathvikManuka/output/github-snake.svg" />
 </picture>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SathvikManuka&show_icons=true&locale=en" alt="SathvikManuka" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SathvikManuka&show_icons=true&locale=en&layout=compact" alt="Manuka Sathvik" />
-</p>
+## About Me
+
+Hello! I'm Manuka Sathvik, a passionate full-stack developer based in India. I love creating and contributing to exciting projects, and I'm always eager to learn and explore new technologies. Feel free to connect with me, and let's collaborate and build amazing things together!
 
 
 ## Contact Me
