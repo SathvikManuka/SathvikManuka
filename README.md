@@ -40,7 +40,7 @@ Hello! I'm Manuka Sathvik, a passionate full-stack developer based in India. I l
 ## Contact Me
 
 - 📧 Email: sathvikmanuka@gmail.com
-- 🌐 Portfolio: [Your Portfolio URL](https://molletichiruvishalportfolio.netlify.app/)
+- 🌐 Portfolio: [Your Portfolio URL](https://sathvikmanukaportfolio.netlify.app/)
 - [LinkedIn](www.linkedin.com/in/sathvik-manuka)
 
 Feel free to reach out to me via email or connect with me on LinkedIn and Twitter. Let's stay in touch!
