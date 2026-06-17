@@ -25,8 +25,8 @@ Blue-team analyst with hands-on experience in SIEM detection, threat intelligenc
 
 | Project | Description | Key Tech |
 |---|---|---|
-| [**Splunk SIEM Detection**](https://github.com/SathvikManuka/SEIM_Threat_Detection) | SPL pipelines to detect anomalous DNS/HTTP traffic. Dashboards mapped to MITRE ATT&CK techniques. | Splunk, SPL, MITRE ATT&CK |
-| [**Phishing Email Analyser**](https://github.com/SathvikManuka) | Python tool that parses `.eml` files, extracts IOCs (IPs, domains, hashes), and queries VirusTotal API for threat enrichment. | Python, VirusTotal API, IOC |
+| [**Splunk SIEM Detection**](https://github.com/SathvikManuka/Splunk_SIEM_Log-Analysis) | SPL pipelines to detect anomalous DNS/HTTP traffic. Dashboards mapped to MITRE ATT&CK techniques. | Splunk, SPL, MITRE ATT&CK |
+| [**Phishing Email Analyser**](https://github.com/SathvikManuka/Email_Analysis_VirusTotal_Python) | Python tool that parses `.eml` files, extracts IOCs (IPs, domains, hashes), and queries VirusTotal API for threat enrichment. | Python, VirusTotal API, IOC |
 
 ---
 
@@ -54,8 +54,8 @@ Blue-team analyst with hands-on experience in SIEM detection, threat intelligenc
 
 ### 📜 Certifications
 
-- 🔵 **IBM Cybersecurity Analyst Professional Certificate** — [View](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
-- 🟢 **Google Cybersecurity Professional Certificate** — [View](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- 🔵 **IBM Cybersecurity Analyst Professional Certificate** — [View](https://www.linkedin.com/feed/update/urn:li:activity:7232806634635280385/)
+- 🟢 **Google Cybersecurity Professional Certificate** — [View](https://www.linkedin.com/feed/update/urn:li:activity:7233798852888182785/)
 - 🟡 **Certified Ethical Hacker (CEH)** — EC-Council *(in progress)*
 
 ---
@@ -63,11 +63,8 @@ Blue-team analyst with hands-on experience in SIEM detection, threat intelligenc
 ### 📄 Publication
 
 > **A Novel Image Encryption Algorithm for Various Medical Images Using Customized Patterns**
-> ICDSA 2024 · MNIT Jaipur · Published via **Springer Nature**
+> ICDSA 2024 · MNIT Jaipur · Published via **Springer Nature** — [View](https://link.springer.com/chapter/10.1007/978-981-96-2179-8_29)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SathvikManuka/SathvikManuka/output/github-snake.svg" alt="GitHub contribution snake"/>
-</p>
 
 <p align="center"><i>"Security is not a product, but a process." — Bruce Schneier</i></p>
