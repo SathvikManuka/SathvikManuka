@@ -1,46 +1,73 @@
-<h1 align="center">Hi 👋, I'm Manuka Sathvik</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Manuka Sathvik</h1>
+<h3 align="center">Cybersecurity Analyst · Blue Team · SIEM · Threat Detection</h3>
 
-<p align="center"> 
-  <img src="https://avatars.githubusercontent.com/u/208589908?s=400&u=82ae0da07eb1d0def78bc4b044610b8e785b0716&v=4" alt="Molleti Chiru Vishal" width="200" /> 
+<p align="center">
+  <a href="https://linkedin.com/in/sathvik-manuka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:manukasathvik16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Location-Warangal%2C%20Telangana-informational?style=flat" alt="Location"/>
 </p>
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
+---
 
+### About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sathvik-manuka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathvikmanuka@gmail.com) 
+Blue-team analyst with hands-on experience in SIEM detection, threat intelligence, and incident response. I focus on threat detection, log analysis, and offensive security concepts — and I'm currently pursuing the Certified Ethical Hacker (CEH) certification.
 
-##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SathvikManuka/SathvikManuka/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SathvikManuka/SathvikManuka/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SathvikManuka/SathvikManuka/output/github-snake.svg" />
-</picture>
+- 🛡️ 6 months as a **Security Analyst Intern** at Tracelay
+- 📊 Worked with **Splunk, Sumo Logic, Trend Micro XDR, IBM X-Force Exchange**
+- 🔍 Skilled in **IOC identification, phishing analysis, OSINT, and vulnerability assessment**
+- 📚 MBA in Systems & Marketing (Sikkim Manipal University, Online — current)
+- 🎓 B.Tech ECE — SR University, Warangal (2024)
 
+---
 
-## About Me
+### 🔬 Projects
 
-Hello! I'm Manuka Sathvik, a passionate full-stack developer based in India. I love creating and contributing to exciting projects, and I'm always eager to learn and explore new technologies. Feel free to connect with me, and let's collaborate and build amazing things together!
+| Project | Description | Key Tech |
+|---|---|---|
+| [**Splunk SIEM Detection**](https://github.com/SathvikManuka/SEIM_Threat_Detection) | SPL pipelines to detect anomalous DNS/HTTP traffic. Dashboards mapped to MITRE ATT&CK techniques. | Splunk, SPL, MITRE ATT&CK |
+| [**Phishing Email Analyser**](https://github.com/SathvikManuka) | Python tool that parses `.eml` files, extracts IOCs (IPs, domains, hashes), and queries VirusTotal API for threat enrichment. | Python, VirusTotal API, IOC |
 
+---
 
-## Contact Me
+### 🛠️ Skills
 
-- 📧 Email: sathvikmanuka@gmail.com
-- 🌐 Portfolio: [Your Portfolio URL](https://sathvikmanukaportfolio.netlify.app/)
-- [LinkedIn](www.linkedin.com/in/sathvik-manuka)
+**SIEM & Monitoring**
+`Splunk` `Sumo Logic` `Trend Micro XDR` `IBM X-Force Exchange`
 
-Feel free to reach out to me via email or connect with me on LinkedIn and Twitter. Let's stay in touch!
+**Offensive Tools**
+`Burp Suite` `Nmap` `OWASP ZAP` `Wireshark`
+
+**Scripting & OS**
+`Python` `Bash` `Kali Linux` `Linux` `Windows`
+
+**Security Concepts**
+`MITRE ATT&CK` `PICERL` `OWASP Top 10` `IOC Identification` `Phishing Analysis` `Log Analysis` `OSINT` `CVSS Scoring` `Reconnaissance`
+
+**Networking & Protocols**
+`TCP/IP` `DNS` `HTTP/HTTPS` `SSL/TLS` `SSH` `SMTP` `Firewalls` `IDS/IPS`
+
+**Frameworks**
+`NIST CSF` `GDPR`
+
+---
+
+### 📜 Certifications
+
+- 🔵 **IBM Cybersecurity Analyst Professional Certificate** — [View](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+- 🟢 **Google Cybersecurity Professional Certificate** — [View](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- 🟡 **Certified Ethical Hacker (CEH)** — EC-Council *(in progress)*
+
+---
+
+### 📄 Publication
+
+> **A Novel Image Encryption Algorithm for Various Medical Images Using Customized Patterns**
+> ICDSA 2024 · MNIT Jaipur · Published via **Springer Nature**
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SathvikManuka/SathvikManuka/output/github-snake.svg" alt="GitHub contribution snake"/>
+</p>
+
+<p align="center"><i>"Security is not a product, but a process." — Bruce Schneier</i></p>
