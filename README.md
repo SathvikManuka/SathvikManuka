@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sathvik-manuka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:manukasathvik16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:manukasathvik16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Warangal%2C%20Telangana-informational?style=flat" alt="Location"/>
 </p>
 
