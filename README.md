@@ -25,8 +25,8 @@ Blue-team analyst with hands-on experience in SIEM detection, threat intelligenc
 
 | Project | Description | Key Tech |
 |---|---|---|
-| [**Splunk SIEM Detection**](https://github.com/SathvikManuka/Splunk_SIEM_Log-Analysis) | SPL pipelines to detect anomalous DNS/HTTP traffic. Dashboards mapped to MITRE ATT&CK techniques. | Splunk, SPL, MITRE ATT&CK |
-| [**Phishing Email Analyser**](https://github.com/SathvikManuka/Email_Analysis_VirusTotal_Python) | Python tool that parses `.eml` files, extracts IOCs (IPs, domains, hashes), and queries VirusTotal API for threat enrichment. | Python, VirusTotal API, IOC |
+| [**Splunk SIEM Threat Detection**](https://github.com/SathvikManuka/Splunk-SIEM-Threat-Detection) | SPL pipelines to detect anomalous DNS/HTTP traffic. Dashboards mapped to MITRE ATT&CK techniques. | Splunk, SPL, MITRE ATT&CK |
+| [**Phishing Email Analyser**](https://github.com/SathvikManuka/Phishing-Email-Analyser) | Python tool that parses `.eml` files, extracts IOCs (IPs, domains, hashes), and queries VirusTotal API for threat enrichment. | Python, VirusTotal API, IOC |
 
 ---
 
